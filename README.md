@@ -10,3 +10,5 @@ Portfolio Project 2 - Data Visualization on Tableau Public (Coming Soon)
 Portfolio Project 3 - Data Cleaning in SQL (Coming Soon)
 
 Portfolio Project 4 - Correlation in Python (Coming Soon)
+
+Portfolio Project Other - Amazon Web Scraping Using Python (Coming Soon)
