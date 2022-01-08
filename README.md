@@ -1,6 +1,7 @@
 # PortfolioProjects
 
 Portfolio Project 1 - SQL Data Exploration:
+ - https://github.com/ericmeyer1/PortfolioProjects/blob/main/Data%20Analysis%20Portfolio%20Project%201%20-%20SQL%20Data%20Exploration.sql
  - Using SQL queries to organize global COVID-19 data
  - Using SQL queries to explore and analyze global COVID-19 data (death and case #s / rates as well as vaccination #s / rates)
  - Creating views in order to later summarize global COVID-19 data with visualization dashboards in Tableau
