@@ -8,6 +8,7 @@ Portfolio Project 1 - SQL Data Exploration:
 
 Portfolio Project 2 - Data Visualization on Tableau Public
  - https://public.tableau.com/app/profile/eric.meyer7874/viz/Covid-19DashboardProject_16416741339100/Dashboard1
+ - Used data queried and organized in SQL in my first portfolio project to create multiple worksheets and a final interactive dashboard in Tableau on Covid-19 global statistics   from February 2019 through February 2021
 
 Portfolio Project 3 - Data Cleaning in SQL (Coming Soon)
 
