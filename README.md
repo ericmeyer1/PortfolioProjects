@@ -5,7 +5,8 @@ Portfolio Project 1 - SQL Data Exploration:
  - Using SQL queries to explore and analyze global COVID-19 data (death and case #s / rates as well as vaccination #s / rates)
  - Creating views in order to later summarize global COVID-19 data with visualization dashboards in Tableau
 
-Portfolio Project 2 - Data Visualization on Tableau Public (Coming Soon)
+Portfolio Project 2 - Data Visualization on Tableau Public
+ - https://public.tableau.com/app/profile/eric.meyer7874/viz/Covid-19DashboardProject_16416741339100/Dashboard1
 
 Portfolio Project 3 - Data Cleaning in SQL (Coming Soon)
 
