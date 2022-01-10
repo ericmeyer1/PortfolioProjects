@@ -2,7 +2,6 @@
 -- DATA ANALYSIS PORTFOLIO PROJECT - SQL DATA EXPLORATION - PROJECT 1/4 --
 --------------------------------------------------------------------------
 
-
 SELECT *
 FROM PortfolioProject..CovidDeaths
 WHERE continent is not null
