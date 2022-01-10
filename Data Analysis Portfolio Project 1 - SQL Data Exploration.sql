@@ -17,7 +17,7 @@ ORDER BY 1, 2
 
 
 -- Looking at Total Cases vs Total Deaths
---Overall likelihood of dying if you contract covid by country (with option to view ONLY United States stats)
+-- Overall likelihood of dying if you contract covid by country (with option to view ONLY United States stats)
 
 SELECT location, population, MAX(total_cases) AS TotalInfectionCount, MAX(cast(total_deaths as int)) AS TotalDeathCount, (MAX(total_deaths)/MAX(total_cases))*100 AS DeathPercentage
 FROM PortfolioProject..CovidDeaths
@@ -56,7 +56,7 @@ GROUP BY location
 ORDER BY TotalDeathCount DESC
 
 
---Looking at Highest Death Rate compared to population by country
+-- Looking at Highest Death Rate compared to population by country
 
 SELECT location, population, MAX(cast(total_deaths as int)) AS TotalDeathCount, MAX((total_deaths/population))*100 AS PercentPopulationDiedByCountry
 FROM PortfolioProject..CovidDeaths
@@ -100,7 +100,7 @@ WHERE dea.continent is not null
 ORDER BY 2,3
 
 -- Using CTE in order to utilize created RollingPeopleVaccinated column to further analyze
---Looking at percentage of population vaccinated by country over time
+-- Looking at percentage of population vaccinated by country over time
 
 With PopvsVac (Continent, Location, Date, Population, new_vaccinations, RollingPeopleVaccinated)
 AS
@@ -118,8 +118,8 @@ SELECT *, (RollingPeopleVaccinated/Population)*100 AS PercentageVaccinated
 FROM PopvsVac
 
 
---Using TEMP TABLE in order to utilize created RollingPeopleVaccinated column to further analyze
---Looking at percentage of population vaccinated by country over time
+-- Using TEMP TABLE in order to utilize created RollingPeopleVaccinated column to further analyze
+-- Looking at percentage of population vaccinated by country over time
 
 DROP Table if exists #PercentPopulationVaccinated
 CREATE TABLE #PercentPopulationVaccinated
