@@ -17,7 +17,7 @@ Portfolio Project 3 - Data Cleaning in SQL:
 Portfolio Project Other - Airbnb Research / Dashboard in Tableau
  - https://public.tableau.com/app/profile/eric.meyer7874/viz/AirBnBFullProject_16416533584710/Dashboard1
  - Utilized data from 2016 in Seattle, Washington on Airbnb lisitings to give a theoretical customer insights on how / where to approach starting their first Aribnb listing
- - Results showed what type (# bedrooms) of listing to start with, the best locations in Seattle to list at, correct pricing for the listing, and times of the year when revenue is the highest (must list times),
+ - Results showed what type (# bedrooms) of listing to start with, the best locations in Seattle to list at, correct pricing for the listing, and times of the year when revenue is the highest (must list times)
 
 Portfolio Project 4 - Correlation in Python (Coming Soon)
 
