@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------
--- DATA ANALYSIS PORTFOLIO PROJECT - DATA CLEANING IN SQL - PROJECT 3/4 --
+-- DATA ANALYSIS PORTFOLIO PROJECT - DATA CLEANING IN SQL --
 --------------------------------------------------------------------------
 
 
