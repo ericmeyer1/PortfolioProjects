@@ -14,15 +14,15 @@ Portfolio Project 3 - Data Cleaning in SQL:
  - https://github.com/ericmeyer1/PortfolioProjects/blob/main/Data%20Analysis%20Portfolio%20Project%202%20-%20Data%20Cleaning%20in%20SQL.sql
  - Using various SQL queries / statements (CONVERT, ALTER TABLE, UPDATE, JOIN, SUBSTRING, PARSENAME, REPLACE, CASE, CTEs, etc.), I cleaned a Nashville Housing dataset to sharpen    my overall data cleaning skills
 
-Portfolio Project Other - Airbnb Research / Dashboard in Tableau:
+Portfolio Project 4 - Airbnb Research / Dashboard in Tableau:
  - https://public.tableau.com/app/profile/eric.meyer7874/viz/AirBnBFullProject_16416533584710/Dashboard1
  - Utilized Airbnb listing data from 2016 in Seattle, Washington to give a theoretical customer insights on how and where to approach starting their first Airbnb listing
  - Results showed what type (# bedrooms) of listing to start with, the best locations in Seattle to list at, correct pricing for the listing, and times of the year when revenue is the highest (must list times)
 
-Portfolio Project Other - Sales Summary Dashboard in Tableau:
+Portfolio Project 5 - Sales Summary Dashboard in Tableau:
  - https://public.tableau.com/app/profile/eric.meyer7874/viz/SalesSummaryDashboard_16432256923300/Dashboard1
  - While achieving my Tableau Essential Training certification on LinkedIn Learning, I took the opportunity to use the provided theoretical sales data to create a sales summary dashboard. Filter by job position capabilities included.
 
-Portfolio Project 4 - Correlation in Python (Coming Soon)
+Portfolio Project 6 - Amazon Web Scraping Using Python (Coming Soon)
 
-Portfolio Project Other - Amazon Web Scraping Using Python (Coming Soon)
+Portfolio Project 7 - Correlation in Python (Coming Soon)
