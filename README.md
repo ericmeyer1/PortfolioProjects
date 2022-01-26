@@ -19,6 +19,10 @@ Portfolio Project Other - Airbnb Research / Dashboard in Tableau
  - Utilized Airbnb listing data from 2016 in Seattle, Washington to give a theoretical customer insights on how and where to approach starting their first Airbnb listing
  - Results showed what type (# bedrooms) of listing to start with, the best locations in Seattle to list at, correct pricing for the listing, and times of the year when revenue is the highest (must list times)
 
+Portfolio Project Other - Sales Summary Dashboard
+ - https://public.tableau.com/app/profile/eric.meyer7874/viz/SalesSummaryDashboard_16432256923300/Dashboard1
+ - While achieving my Tableau Essential Training certification on LinkedIn Learning, I took the opportunity to use the provided theoretical sales data to create a sales summary dashboard. Filter by job position capabilities included.
+
 Portfolio Project 4 - Correlation in Python (Coming Soon)
 
 Portfolio Project Other - Amazon Web Scraping Using Python (Coming Soon)
