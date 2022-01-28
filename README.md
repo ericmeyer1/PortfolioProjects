@@ -1,4 +1,4 @@
-# PortfolioProjects
+# PortfolioProjects - SQL, Tableau, and Python
 
 Portfolio Project 1 - SQL Data Exploration:
  - https://github.com/ericmeyer1/PortfolioProjects/blob/main/Data%20Analysis%20Portfolio%20Project%201%20-%20SQL%20Data%20Exploration.sql
