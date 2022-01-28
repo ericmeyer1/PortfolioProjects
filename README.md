@@ -23,6 +23,10 @@ Portfolio Project 5 - Sales Summary Dashboard in Tableau:
  - https://public.tableau.com/app/profile/eric.meyer7874/viz/SalesSummaryDashboard_16432256923300/Dashboard1
  - While achieving my Tableau Essential Training certification on LinkedIn Learning, I took the opportunity to use the provided theoretical sales data to create a sales summary dashboard. Filter by job position capabilities included.
 
-Portfolio Project 6 - Amazon Web Scraping Using Python (Coming Soon)
+Portfolio Project 6 - HR KPI Dashboard in Tableau:
+ - https://public.tableau.com/app/profile/eric.meyer7874/viz/HRKPIDashboard_16433256682450/HRKPIDashboard
+ - Utilized Kaggle dataset, IBM HR Analytics Employee Attrition & Performance, to gain better understanding of how to harness HR data to create informative KPIs and an overall dashboard to summarize attrition metrics.
 
-Portfolio Project 7 - Correlation in Python (Coming Soon)
+Portfolio Project 7 - Amazon Web Scraping Using Python (Coming Soon)
+
+Portfolio Project 8 - Correlation in Python (Coming Soon)
