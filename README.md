@@ -1,7 +1,7 @@
 # PortfolioProjects - SQL, Tableau, and Python
 
 Portfolio Project 1 - SQL Data Exploration:
- - https://github.com/ericmeyer1/PortfolioProjects/blob/main/Data%20Analysis%20Portfolio%20Project%201%20-%20SQL%20Data%20Exploration.sql
+ - https://github.com/ericmeyer1/PortfolioProjects-SQL-Tableau-Python/blob/main/Portfolio%201%20-%20SQL%20Data%20Exploration.sql
  - Using SQL queries to organize global COVID-19 data
  - Using SQL queries to explore and analyze global COVID-19 data (death and case #s / rates as well as vaccination #s / rates)
  - Creating views in order to later summarize global COVID-19 data with visualization dashboards in Tableau
@@ -13,7 +13,7 @@ Portfolio Project 2 - Data Visualization in Tableau:
 
 
 Portfolio Project 3 - Data Cleaning in SQL:
- - https://github.com/ericmeyer1/PortfolioProjects/blob/main/Data%20Analysis%20Portfolio%20Project%202%20-%20Data%20Cleaning%20in%20SQL.sql
+ - https://github.com/ericmeyer1/PortfolioProjects-SQL-Tableau-Python/blob/main/Portfolio%202%20-%20Data%20Cleaning%20in%20SQL.sql
  - Using various SQL queries / statements (CONVERT, ALTER TABLE, UPDATE, JOIN, SUBSTRING, PARSENAME, REPLACE, CASE, CTEs, etc.), I cleaned a Nashville Housing dataset to sharpen    my overall data cleaning skills
 
 
