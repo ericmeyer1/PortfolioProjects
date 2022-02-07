@@ -27,6 +27,11 @@ Portfolio Project 6 - HR KPI Dashboard in Tableau:
  - https://public.tableau.com/app/profile/eric.meyer7874/viz/HRKPIDashboard_16433256682450/HRKPIDashboard
  - Utilized Kaggle dataset, IBM HR Analytics Employee Attrition & Performance, to gain better understanding of how to harness HR data to create informative KPIs and an overall dashboard to summarize attrition metrics.
 
+Portfolio Project 7 - Data Exploration in SQL:
+ - https://github.com/ericmeyer1/PortfolioProjects-SQL-Tableau-Python/blob/main/Portfolio%207%20-%20%20EDA%20in%20SQL.sql
+ - In Part 1 of this portfolio project, I used Microsoft SQL Server to explore the Kaggle dataset, Global Superstore.
+ - Utilizing Kaggle dataset, Global Superstore, to create an overview of sales by category, market, and country as well as to analyze sales vs profit.
+
 Portfolio Project 7 - Amazon Web Scraping Using Python (Coming Soon)
 
 Portfolio Project 8 - Correlation in Python (Coming Soon)
